@@ -1,0 +1,37 @@
+{
+    "general": {
+        "site_name": "AIMS",
+        "logo_path": "\/aims\/assets\/logo\/makilinglogo.png"
+    },
+    "theme": {
+        "student": {
+            "accent": "#22c55e",
+            "hover": "#16a34a"
+        },
+        "teacher": {
+            "accent": "#fbbf24",
+            "hover": "#f59e0b"
+        },
+        "admin": {
+            "accent": "#3b82f6",
+            "hover": "#2563eb"
+        }
+    },
+    "features": {
+        "topbar_clock": true,
+        "student_sidebar_calendar": true,
+        "notifications": true
+    },
+    "school": {
+        "current_year": ""
+    },
+    "smtp": {
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": ""
+    },
+    "security": {
+        "password_min_length": 8
+    }
+}
